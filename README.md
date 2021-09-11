@@ -1,5 +1,4 @@
 # Hello_world
-Just a try
 
 Hello Everyone !
 I am pursuing Btech and have passion to learn open source.
